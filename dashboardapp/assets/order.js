@@ -1,4 +1,4 @@
-const Orders = [
+const content = [
     {
         productName: 'JavaScript Tutorial',
         productNumber: '85743',
