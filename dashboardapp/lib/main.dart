@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:dashboardapp/screen/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,3 +20,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+

@@ -15,8 +15,8 @@ class _HomeScreenState extends State<HomeScreen> {
       child: Scaffold(
         body: Container(
           child: const WebViewPlus(
-            initialUrl: "assets/dashboard.html"
-            javascriptMode: javascriptMode.unrestricted,
+            initialUrl: "assets/dashboard.html",
+            javascriptMode: JavascriptMode.unrestricted,
           )
         )
       ),
